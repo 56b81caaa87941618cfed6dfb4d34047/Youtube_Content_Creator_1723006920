@@ -3,11 +3,11 @@
 
 Vue.component("simple_header_component_1723006921", {
     template: `
-    <header id="header-section" style="min-height: 110px" class="w-full bg-gradient-to-r from-pink-400 to-purple-600">
+    <header id="header-section" style="min-height: 110px"  class="w-full bg-gradient-to-r from-pink-400 to-purple-600">
         <nav id="nav-bar" class="bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg border-gray-200 py-2.5 dark:bg-gray-900 dark:bg-opacity-20 rounded-lg shadow-lg">
             <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a id="logo-link" href="#" class="flex items-center">
-                    <img id="logo-image" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
+                    <img id="logo-image" src="https://makeinfinite-mentat-test.azurewebsites.net/get_image/tmpnt9lea2k/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
                     <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap text-white">VidStream - Your YouTube Alternative</span>
                 </a>
                 <div id="menu-toggle-button" class="flex items-center lg:order-2">
